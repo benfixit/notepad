@@ -1,0 +1,13 @@
+.ck.ck-editor {
+    height: 100%;
+
+    .ck-editor__main {
+        height: 100%;
+
+        .ck-editor__editable_inline {
+            display: block;
+            height: 100%;
+        }
+    }
+    
+}

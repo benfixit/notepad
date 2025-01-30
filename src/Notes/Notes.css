@@ -1,0 +1,10 @@
+ul {
+    li {
+        padding: 24px;
+        cursor: pointer;
+    }
+
+    li.selected {
+        background-color: #888888;
+    }
+}
